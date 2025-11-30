@@ -1,0 +1,1 @@
+This project implements a real time audio playback system using  Cortex M4 based STM32F407-DISC Board. The project uses the on board PDM microphone to sample audio and passes it to the codec in real time for playback.
